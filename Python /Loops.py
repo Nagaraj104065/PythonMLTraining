@@ -34,3 +34,6 @@ for x in xrange(10000000):
 stop = time.clock()
 
 print stop - start
+
+for i in range(10):
+    print "hi"+ str(i)

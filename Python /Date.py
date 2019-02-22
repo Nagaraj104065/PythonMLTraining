@@ -5,4 +5,4 @@ ticks = time.time()
 print(ticks)
 
 localtime = time.localtime(time.time())
-print "Local current time :", localtime
+print "Local current time :", localtime.tm_mday

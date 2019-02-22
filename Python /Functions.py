@@ -10,7 +10,6 @@ def printme( str ):
 printme("I'm first call to user defined function!")
 printme("Again second call to the same function")
 
-
 # Function definition is here
 def sum( arg1, arg2 ):
    # Add both the parameters and return them."
